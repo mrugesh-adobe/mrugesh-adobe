@@ -26,10 +26,10 @@
 
 ### :coffee: Hit Me Up Here
 <p align="center">
-    <a href="https://www.linkedin.com/in/onlymrugesh/">
+    <a href="https://www.linkedin.com/in/onlymrugesh/" target="_blank">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="https://www.instagram.com/suman.ghosts/">
+    <a href="https://www.quora.com/profile/MrugeshTech" target="_blank">
         <img src="https://img.shields.io/badge/Mrugesh_Tech_Space-2k?style=for-the-badge&color=A82400&logo=quora&logoColor=fff" alt="Quora"/>
     </a>
 </p>
