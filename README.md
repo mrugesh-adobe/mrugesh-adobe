@@ -2,7 +2,7 @@
 
 ### :sparkles: About Me 
 - 👩🏻‍💻 Pronouns: He/His
-- 💼 I'm currently working as Techinical Architect at [Adobe](adobe.com).
+- 💼 I'm currently working as Techinical Architect at Adobe.
 - 🎒 I've sound exposure to work on AEM Edge Deliver Service / Franklin / Document based CMS.
 - 🎒 Mastered EDS / Franklin through completing an impressive portfolio of nearly 3 to 4 projects..
 - 🧭 I love exploring and working both in Frontend and Backend.
