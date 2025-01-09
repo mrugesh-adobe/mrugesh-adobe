@@ -2,12 +2,13 @@
 
 ### :sparkles: About Me 
 - 👩🏻‍💻 Pronouns: He/His
-- 💼 I'm currently working as Techinical Architect at Adobe.
+- 💼 I'm currently working as **Techinical Architect** at **Adobe**.
 - 🎒 I've sound exposure to work on AEM Edge Deliver Service / Franklin / Document based CMS.
-- 🎒 Mastered EDS / Franklin through completing an impressive portfolio of nearly 3 to 4 projects..
+- 🎒 Mastered **Edge Delivery Service / Franklin / Helix** through completing an impressive portfolio of nearly **6+** projects..
 - 🧭 I love exploring and working both in Frontend and Backend.
 - 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
+- 🗣️ Apart from programming languages, I'm fluent in English, Hindi, Gujarati, Marathi, and Kannada — no semicolons required!
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
