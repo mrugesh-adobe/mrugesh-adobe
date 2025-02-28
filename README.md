@@ -1,10 +1,9 @@
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Mrugesh.AEM</h1>
 
 ### :sparkles: About Me 
-- 👩🏻‍💻 Pronouns: He/His
 - 💼 I'm currently working as **Techinical Architect** at **Adobe**.
 - 🎒 I've sound exposure to work on AEM Edge Deliver Service / Franklin / Document based CMS.
-- 🎒 Mastered **Edge Delivery Service / Franklin / Helix** through completing an impressive portfolio of nearly **6+** projects..
+- 🎒 Mastered **Edge Delivery Service / Franklin / Helix** through completing an impressive portfolio of nearly **10+** projects..
 - 🧭 I love exploring and working both in Frontend and Backend.
 - 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
