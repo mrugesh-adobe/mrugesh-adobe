@@ -1,10 +1,12 @@
 <h1 align="center"> 
-  Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  I'm <strong>Mrugesh</strong>, Technical Architect | AEM Specialist 🚀
+  Hello there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  I'm <strong>Mrugesh</strong>
 </h1>
+<h3 align="center">Technical Architect | AEM Specialist 🚀</h3>
 <p align="center">
   🌐 Visit my website: <a href="https://mrugesh.tech" target="_blank"><strong>mrugesh.tech</strong></a>
 </p>
+
 
 
 ### :sparkles: About Me 
