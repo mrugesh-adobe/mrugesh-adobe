@@ -2,9 +2,10 @@
 
 ### :sparkles: About Me 
 - 💼 I'm currently working as **Techinical Architect** at **Adobe**.
-- 🎒 I've sound exposure to work on AEM Edge Deliver Service / Franklin / Document based CMS.
-- 🎒 Mastered **Edge Delivery Service / Franklin / Helix** through completing an impressive portfolio of nearly **10+** projects..
-- 🧭 I love exploring and working both in Frontend and Backend.
+- 🌐 Mastered **Edge Delivery Service** / **Franklin** / **Helix** through completing an impressive portfolio of nearly **10+** projects.
+- 🎒 I've sound exposure to work on **Adobe IO** / **Adobe Analytics** / **Adobe Martech** / **Adobe Cloud Manager** / **Universal Editor**.
+- 🚀 Passionate about leveraging **cutting-edge technologies** to build innovative, scalable solutions in both **enterprise** and **open-source** environments.
+- 📂 Committed to well-organized repositories, thorough documentation, and collaborative development.
 - 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
 - 🗣️ Apart from programming languages, I'm fluent in English, Hindi, Gujarati, Marathi, and Kannada — no semicolons required!
