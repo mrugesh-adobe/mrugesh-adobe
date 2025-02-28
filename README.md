@@ -1,4 +1,11 @@
-<h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Mrugesh.AEM</h1>
+<h1 align="center"> 
+  Hello there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  I'm <strong>Mrugesh</strong>, Technical Architect | AEM Specialist 🚀
+</h1>
+<p align="center">
+  🌐 Visit my website: <a href="https://mrugesh.tech" target="_blank"><strong>mrugesh.tech</strong></a>
+</p>
+
 
 ### :sparkles: About Me 
 - 💼 I'm currently working as **Techinical Architect** at **Adobe**.
