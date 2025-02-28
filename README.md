@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Hello there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   I'm <strong>Mrugesh</strong>, Technical Architect | AEM Specialist 🚀
 </h1>
 <p align="center">
