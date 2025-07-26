@@ -10,7 +10,6 @@
 
 
 ### :sparkles: About Me 
-### ✨ About Me
 - 💼 **Technical Architect @ Adobe**, leading delivery on web modernization using **AEM Edge Delivery Services (EDS)**, **Franklin**, and **Helix** — with **12+ enterprise projects** delivered.
 - 🧠 **Master of the Adobe Stack**: Skilled in **AEM**, **Adobe Target**, **Adobe Analytics**, **Adobe IO**, **Cloud Manager**, **Universal Editor**, and **MarTech** integrations.
 - 🤖 **AI-First Developer**: Power-user of **Cursor**, **Claude**, and **MCP (Adobe Copilot)** — accelerating dev workflows, code reviews, and architecture decisions.
