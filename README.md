@@ -10,14 +10,26 @@
 
 
 ### :sparkles: About Me 
-- 💼 I'm currently working as **Techinical Architect** at **Adobe**.
-- 🌐 Mastered **Edge Delivery Service** / **Franklin** / **Helix** through completing an impressive portfolio of nearly **10+** projects.
-- 🎒 I've sound exposure to work on **Adobe IO** / **Adobe Analytics** / **Adobe Martech** / **Adobe Cloud Manager** / **Universal Editor**.
-- 🚀 Passionate about leveraging **cutting-edge technologies** to build innovative, scalable solutions in both **enterprise** and **open-source** environments.
-- 📂 Committed to well-organized repositories, thorough documentation, and collaborative development.
-- 🎭 I love speaking at events and connecting with people.
-- 📫 How to reach me: Check social links below.
+### ✨ About Me
+- 💼 **Technical Architect @ Adobe**, leading delivery on web modernization using **AEM Edge Delivery Services (EDS)**, **Franklin**, and **Helix** — with **12+ enterprise projects** delivered.
+- 🧠 **Master of the Adobe Stack**: Skilled in **AEM**, **Adobe Target**, **Adobe Analytics**, **Adobe IO**, **Cloud Manager**, **Universal Editor**, and **MarTech** integrations.
+- 🤖 **AI-First Developer**: Power-user of **Cursor**, **Claude**, and **MCP (Adobe Copilot)** — accelerating dev workflows, code reviews, and architecture decisions.
+- ⚙️ Pro in **Edge config customizations**: Set up and optimized `config.yaml`, `query.yaml`, Edge functions, and content indexing for multi-region & personalized experiences.
+- 🚀 Driven by performance, automation, and clean architecture — across **enterprise**, **open-source**, and **multi-team collaboration**.
+- 🎤 Love to mentor, demo, and speak at internal events.  
+- 📫 Ping me via social links below — always happy to connect!
 - 🗣️ Apart from programming languages, I'm fluent in English, Hindi, Gujarati, Marathi, and Kannada — no semicolons required!
+
+I’m a passionate and results-driven Technical Architect with deep expertise across the **Adobe Experience Cloud stack**, including:
+
+- **AEM Edge Delivery Services (EDS)**
+- **Adobe Target**
+- **Adobe Analytics**
+- **Adobe IO & AppBuilder**
+- **Universal Editor customization**
+- **Adobe Cloud Manager, Importer, and MarTech tools**
+
+With a proven track record of delivering high-performance, scalable web experiences, I specialize in **multi-region deployments**, **component-based architectures**, and **performance optimizations**.
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
