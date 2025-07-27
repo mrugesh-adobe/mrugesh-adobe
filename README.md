@@ -9,7 +9,7 @@
 
 
 
-### :sparkles: About Me 
+## :sparkles: About Me 
 - 💼 **Technical Architect @ Adobe**, leading delivery on web modernization using **AEM Edge Delivery Services (EDS)**, **Franklin**, and **Helix** — with **12+ enterprise projects** delivered.
 - 🧠 **Master of the Adobe Stack**: Skilled in **AEM**, **Adobe Target**, **Adobe Analytics**, **Adobe IO**, **Cloud Manager**, **Universal Editor**, and **MarTech** integrations.
 - 🤖 **AI-First Developer**: Power-user of **Cursor**, **Claude**, and **MCP (Adobe Copilot)** — accelerating dev workflows, code reviews, and architecture decisions.
@@ -19,14 +19,16 @@
 - 📫 Ping me via social links below — always happy to connect!
 - 🗣️ Apart from programming languages, I'm fluent in English, Hindi, Gujarati, Marathi, and Kannada — no semicolons required!
 
-I’m a passionate and results-driven Technical Architect with deep expertise across the **Adobe Experience Cloud stack**, including:
+## 🛠️ Tech Stack Overview
 
-- **AEM Edge Delivery Services (EDS)**
-- **Adobe Target**
-- **Adobe Analytics**
-- **Adobe IO & AppBuilder**
-- **Universal Editor customization**
-- **Adobe Cloud Manager, Importer, and MarTech tools**
+| **Category**           | **Technologies**                                                                                                         |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| 🧱 **Adobe Tech Stack** | AEM (Sites, Assets), Edge Delivery Services (EDS), Universal Editor, Franklin, Helix, Adobe Target, Adobe Analytics, Adobe IO |
+| 🎨 **Frontend Stack**   | HTML5, CSS3 (Sass, Tailwind), JavaScript (ES6+), TypeScript, React.js, Angular, Vue.js, Preact                          |
+| ⚙️ **Backend Stack**    | Node.js, Express, NestJS, REST APIs, GraphQL, WebSockets                                                                 |
+| ☁️ **Cloud & DevOps**   | Adobe Experience Cloud, Vercel, Azure DevOps, GitHub Actions, Adobe Cloud Manager                                        |
+| 📦 **CMS Platforms**    | AEM (Classic + Headless), Edge Delivery Services (EDS), Drupal, WordPress, Joomla                                        |
+| 🤖 **AI & Automation**  | Cursor, Claude, GitHub Copilot, ChatGPT, MCP Server, Prompt Engineering                                       |
 
 With a proven track record of delivering high-performance, scalable web experiences, I specialize in **multi-region deployments**, **component-based architectures**, and **performance optimizations**.
 
