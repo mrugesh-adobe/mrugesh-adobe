@@ -2,7 +2,7 @@
   Hello there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   I'm <strong>Mrugesh</strong>
 </h1>
-<h3 align="center">Technical Architect | AEM Specialist | Full Stack 🚀</h3>
+<h3 align="center">Technical Architect | AEM Specialist | Full Stack Developer🚀</h3>
 <p align="center">
   🌐 Visit my website: <a href="https://mrugesh.tech" target="_blank"><strong>mrugesh.tech</strong></a>
 </p>
